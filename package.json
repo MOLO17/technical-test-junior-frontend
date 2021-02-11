@@ -1,0 +1,15 @@
+{
+  "name": "technical-test-junior-frontend",
+  "version": "0.0.0",
+  "description": "",
+  "author": "web@molo17.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MOLO17/technical-test-junior-frontend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MOLO17/technical-test-junior-frontend/issues"
+  },
+  "homepage": "https://github.com/MOLO17/technical-test-junior-frontend#readme"
+}
